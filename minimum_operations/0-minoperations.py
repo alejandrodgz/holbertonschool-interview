@@ -55,3 +55,4 @@ def minOperations(n):
     values = countProcess(n)
     # Return the sum of the elements in the list of prime factors
     return sum(values)
+    
